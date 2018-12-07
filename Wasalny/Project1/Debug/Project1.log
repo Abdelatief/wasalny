@@ -1,0 +1,13 @@
+﻿  Source.cpp
+d:\kolya\tanya\ds\project\new folder\project1\project1\source.cpp(33): warning C4244: 'argument': conversion from 'double' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+d:\kolya\tanya\ds\project\new folder\project1\project1\source.cpp(46): warning C4018: '<': signed/unsigned mismatch
+d:\kolya\tanya\ds\project\new folder\project1\project1\source.cpp(48): warning C4244: 'initializing': conversion from '_Ty2' to 'int', possible loss of data
+          with
+          [
+              _Ty2=__int64
+          ]
+  Project1.vcxproj -> D:\kolya\tanya\DS\Project\New folder\Project1\Debug\Project1.exe
